@@ -11,8 +11,8 @@ I am an Embedded Engineer. I grew up in a land with a tradition of studiousness 
   
 It is best to contact me by [email](vankienk16a1@gmail.com). I am always open to interesting conversations and collaborations.
 
-
-### More contact:
+---
+More contact:
 - [Youtube](https://www.youtube.com/channel/UCSy1u4KBVBzd5cPgRgEmKzw)
 - [Facebook](https://www.facebook.com/kine0612)
 - [LinkedIn](https://www.linkedin.com/in/nguyen-kien-22b892256/)
