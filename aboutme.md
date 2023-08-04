@@ -1,16 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: The way to get started is to quit talking and begin doing!
 ---
+### Hi, I'm Kien 👋
 
-My name is Inigo Montoya. I have the following qualities:
+I am an Embedded Engineer. I grew up in a land with a tradition of studiousness - Uncle Ho's hometown - that is Nghe An province.
+- 🎓 I'm currently a senior year student at University of Science and Technology - The University of Danang, majoring in Control Engineering and Automation.
+- 🔭 I am also studying and working on microcontroller program as STM32, Arduino, KL46...
+  
+It is best to contact me by [email](vankienk16a1@gmail.com). I am always open to interesting conversations and collaborations.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### More contact:
+- [Youtube](https://www.youtube.com/channel/UCSy1u4KBVBzd5cPgRgEmKzw)
+- [Facebook](https://www.facebook.com/kine0612)
+- [LinkedIn](https://www.linkedin.com/in/nguyen-kien-22b892256/)
